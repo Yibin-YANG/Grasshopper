@@ -1,0 +1,2 @@
+to testify if conda is installed now and check the version.
+conda -V
